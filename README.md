@@ -1,5 +1,5 @@
 # Leap-n-Leave 
-a project of 4 students for our game development class  
+a Unity project of 4 students for our game development class  
 NOT a finished game 
 
 This is a german game we created last summer for our game development class.  
